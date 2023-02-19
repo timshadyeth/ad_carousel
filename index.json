@@ -1,0 +1,16 @@
+{
+  "sections": {
+    "bedb7c47-2073-4a69-a441-82d0fcc19ca5": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"pic\"><img class=\"myImg\" id=\"myImg\" src=\"{{ 'q1.png' | asset_url }}\"><\/div>\n<div class=\"container\">\n  <div class=\"carousel\">\n    <div class=\"item a\">A<\/div>\n    <div class=\"item b\">B<\/div>\n    <div class=\"item c\">C<\/div>\n    <div class=\"item d\">D<\/div>\n    <div class=\"item e\">E<\/div>\n    <div class=\"item f\">F<\/div>\n  <\/div>\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 64,
+        "padding_bottom": 68
+      }
+    }
+  },
+  "order": [
+    "bedb7c47-2073-4a69-a441-82d0fcc19ca5"
+  ]
+}
